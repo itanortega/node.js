@@ -1,2 +1,3 @@
 #Ignora la carpeta de los modulos instalados con NPM
 /hola_express/node_modules
+/routi ng/node_modules
